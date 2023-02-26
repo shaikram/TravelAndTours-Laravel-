@@ -1,0 +1,9 @@
+<!-- Core theme CSS (includes Bootstrap)-->
+<link href={{ asset("plugins/AdminLTE-3.2.0/plugins/fontawesome-free/css/all.min.css") }} rel="stylesheet" />
+<link href={{ asset("plugins/AdminLTE-3.2.0/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css") }} rel="stylesheet" />
+<link href={{ asset("plugins/AdminLTE-3.2.0/plugins/icheck-bootstrap/icheck-bootstrap.min.css") }} rel="stylesheet" />
+<link href={{ asset("plugins/AdminLTE-3.2.0/plugins/jqvmap/jqvmap.min.css") }} rel="stylesheet" />
+<link href={{ asset("plugins/AdminLTE-3.2.0/dist/css/adminlte.min.css") }} rel="stylesheet" />
+<link href={{ asset("plugins/AdminLTE-3.2.0/plugins/overlayScrollbars/css/OverlayScrollbars.min.css") }} rel="stylesheet" />
+<link href={{ asset("plugins/AdminLTE-3.2.0/plugins/daterangepicker/daterangepicker.css") }} rel="stylesheet" />
+<link href={{ asset("plugins/AdminLTE-3.2.0/plugins/summernote/summernote-bs4.min.css") }} rel="stylesheet" />

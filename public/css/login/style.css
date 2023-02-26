@@ -1,0 +1,17 @@
+.login_left_div {
+    background: url('../../assets/img/login-register.jpg') no-repeat center;
+    background-position: center;
+    background-size: 100% auto;
+    background-attachment: fixed;
+    padding: 0;
+    opacity: 0.9 #000;
+    height: 100%;
+}
+
+.login_text_left {
+    padding-top: 50%;
+    padding-bottom: 50%;
+}
+form {
+    padding: 17%;
+}

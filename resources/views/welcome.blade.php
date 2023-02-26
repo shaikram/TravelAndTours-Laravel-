@@ -1,0 +1,20 @@
+@extends('layout.app')
+@section('title')
+    CK Travel and Tours
+@endsection
+@section('links')
+    @include('includes/css_dependencies')
+@endsection
+@section('content')
+    @include('includes/navigation')
+    @include('includes/masthead')
+    @include('includes/packages_section')
+    @include('includes/destination_section')
+    @include('includes/about_section')
+    @include('includes/contacts_section')
+    @include('includes/footer_section')
+    @include('includes/modals')
+@endsection
+@section('scripts')
+    @include('includes/script_dependencies')
+@endsection
